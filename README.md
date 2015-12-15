@@ -4,7 +4,7 @@ Bitmap-Rectangle: Swift
 
 Project done @ NYCDA's iOS-Class
 
-Intructions
+Intructions:
 - CMD+R when on XCode to run
 
 ![screenshot](https://github.com/kennybatista/Bitmap-Rectangle/blob/master/screenshot.png)
